@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/ricdonatti/privx.git
-git add .
-git commit -m "Primeiro deploy da API"
-git push -u origin master
